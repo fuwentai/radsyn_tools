@@ -14,6 +14,6 @@ They have the following features:
 
 Codes will be uploaded soon.
 
-Two example Figures are uploaded.
+Three example Figures are uploaded.
 
 We add Halpha, white light, and radio in the physical modules.
